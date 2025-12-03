@@ -9,4 +9,4 @@ for n in nums:
 a = sum(valid_nums)
 b = a / len(valid_nums)
 
-print(a, b)
+print(a, round(b,1))
